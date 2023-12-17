@@ -1,0 +1,24 @@
+
+.asd{
+  color: black;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.langButton{
+  padding: 20px;
+}
+
+.buttonGroup{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
